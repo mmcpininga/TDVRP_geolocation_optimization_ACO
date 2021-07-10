@@ -1,14 +1,14 @@
 # geolocation_optimization_ACO
 
-Time-Dependent Vehicule Routing Problem (VRP) -- Ant Colony Optimization (ACO) + Geolocation 
+Time-Dependent Vehicule Routing Problem (TDVRP) -- Ant Colony Optimization (ACO) + Geolocation 
 
 O problema de roteamento de veículos (VRP) é um problema na área da otimização combinatória. 
 Consiste no atendimento de um conjunto de consumidores por intermédio de uma frota de veículos, que partem de um ou mais pontos denominados depósitos.
 Além disso, possui a restrição de capacidade do veículo.
 
-Nesse caso, o problema consiste no time dependent VRP, ou seja, o tempo da rota deve ser minimizado.
+Nesse caso, o problema consiste no time-dependent VRP, ou seja, o tempo da rota deve ser minimizado.
 
-Portanto, o problema consiste em encontrar as rotas ótimas, ou seja, a sequência ótima dos pontos de geolocalização (latitude e longitude) baseado no tempo da rota. Estes dados podem ser, por exemplo, pontos de parada de ônibus.
+Portanto, o problema consiste em encontrar as rotas ótimas, ou seja, a sequência ótima dos pontos de geolocalização (latitude e longitude) minimizando oo tempo da rota. Estes dados podem ser, por exemplo, pontos de parada de ônibus.
 
 A rota inicia em um ponto definido e chega em outro ponto definido. 
 
