@@ -23,9 +23,14 @@ Restrições:
 3) Capacidade máxima de pessoas por ônibus: 60 pessoas
 
 Resultado:
+Rota/Tempo/Capacidade
+
+![image](https://user-images.githubusercontent.com/18504119/125176838-506f5f00-e1ad-11eb-89c5-accd3e48fc02.png)
 
 
-![image](https://user-images.githubusercontent.com/18504119/125176485-1c466f00-e1aa-11eb-970d-29dca8c673b4.png)
+Resultado das rotas no mapa:
+
+![image](https://user-images.githubusercontent.com/18504119/125176903-d25f8800-e1ad-11eb-89d5-ae995ab01ffa.png)
 
 
 Instalação dos pacotes:
